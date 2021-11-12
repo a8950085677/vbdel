@@ -1,0 +1,6 @@
+a = "I"
+For i = 0 To 5
+a = a + "I"
+MsgBox (i)
+Next
+End Sub
